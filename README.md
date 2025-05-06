@@ -19,9 +19,9 @@ You can use the Marling firmware and build it yourself to add a bunch of feature
 https://github.com/MarlinFirmware/Marlin
 
 # Ender 3 v2 Installed Upgrades
-- $15 x 4 [Noctua Fan 40x20](https://www.amazon.com/dp/B072JK9GX6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
-- $15 x 4 [Noctua Fan 92x14](https://www.amazon.com/dp/B009NQM7V2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
-- $15 x 4 [Noctua Fan 40x10](https://www.amazon.com/dp/B009NQLT0M?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+- $15 [Noctua Fan 40x20](https://www.amazon.com/dp/B072JK9GX6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+- $15 [Noctua Fan 92x14](https://www.amazon.com/dp/B009NQM7V2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+- $15 [Noctua Fan 40x10](https://www.amazon.com/dp/B009NQLT0M?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 - $20 [PEI Heat Bed](https://www.amazon.com/dp/B086JP8KB4?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 - $10 [Spring Mounts](https://www.amazon.com/dp/B08YK2D3RK?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 - $10 [PTFE Tubing](https://www.amazon.com/dp/B0BFVDGYZZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
